@@ -228,7 +228,7 @@
                             </li>
                         </ul>
 
-                        <a href="about-us.html" class="rr-btn">
+                        <a href="hakkimizda.php" class="rr-btn">
                             <span class="btn-wrap">
                                 <span class="text-one">Hakkımızda Daha Fazla Bilgi</span>
                                 <span class="text-two">Hakkımızda Daha Fazla Bilgi</span>
@@ -393,7 +393,7 @@
                             <img src="assets/imgs/request-quote/phone.svg" alt="">
                         </div>
                         <div class="contact-list__item-text">
-                            <h4 class="title">Telefon Numarası</h4>
+                            <h4 class="title">Telefon</h4>
                             <a href="tel:02243640050">0 (224) 364 00 50</a>
                         </div>
                     </div>
@@ -427,7 +427,7 @@
                         </div>
                         <div class="contact-list__item-text">
                             <h4 class="title">Adres</h4>
-                            <a href="https://www.google.com/maps/place/Tekstil/@40.2785635,29.0516461,17z/data=!3m1!4b1!4m6!3m5!1s0x14ca415affc0a27d:0xcd39d1cd8fd33aee!8m2!3d40.2785635!4d29.0516461!16s%2Fg%2F11tdp4khd8?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Alaşarköy, İstanbul Cd No:509, 16245 Osmangazi̇/Bursa</a>
+                            <a href="https://www.google.com/maps/place/Tekstil/@40.2785635,29.0516461,17z/data=!3m1!4b1!4m6!3m5!1s0x14ca415affc0a27d:0xcd39d1cd8fd33aee!8m2!3d40.2785635!4d29.0516461!16s%2Fg%2F11tdp4khd8?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D">Alaşarköy, İstanbul Cd No:509 Bursa</a>
                         </div>
                     </div>
                 </div>
