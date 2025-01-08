@@ -54,8 +54,8 @@
                             <div class="footer__link">
                                 <ul>
                                     <li><a href="index.php">Anasayfa</a></li>
-                                    <li><a href="about.php">Hakkımızda</a></li>
-                                    <li><a href="project.html">Sertifikalar</a></li>
+                                    <li><a href="hakkimizda.php">Hakkımızda</a></li>
+                                    <li><a href="sertifikalar.php">Sertifikalar</a></li>
                                     <li><a href="contact.php">İletişim</a></li>
                                 </ul>
                             </div>
@@ -124,6 +124,15 @@
             </div>
         </div>
     </section>
+    <!-- WhatsApp Button -->
+    <a
+        href="https://wa.me/905325693069"
+        class="btn btn-success whatsapp-button"
+        target="_blank"
+        title="Bize WhatsApp'tan ulaşın!">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
 </footer>
 <!-- Footer area end -->
 

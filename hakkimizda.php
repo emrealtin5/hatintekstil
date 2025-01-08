@@ -14,7 +14,7 @@
                                 <ul>
                                     <li>
                                         <span>
-                                            <a href="index-2.html">
+                                            <a href="index.php">
                                                 <svg width="15" height="16" viewBox="0 0 15 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path d="M1 5.9L7.5 1L14 5.9V13.6C14 13.9713 13.8478 14.3274 13.5769 14.5899C13.306 14.8525 12.9386 15 12.5556 15H2.44444C2.06135 15 1.69395 14.8525 1.42307 14.5899C1.15218 14.3274 1 13.9713 1 13.6V5.9Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                                     <path d="M5.33398 15V8H9.66732V15" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -55,7 +55,7 @@
                             müşteri ihtiyaçlarını ve memnuniyetini ön planda tutan yenilikçi bir anlayışı
                             benimsemiştir.Firmamız genişleyerek kendini yenilemekte ve gelişen teknolojinin bütün
                             olanaklarını bünyesine alarak dünya ile eş zamanlı olarak kullanmaktadır. Türkiye
-                            genelinde faaliyet gösteren firmamız farklı ürün, farkli vizyon,farklı pazarlama
+                            genelinde faaliyet gösteren firmamız farklı ürün, farklı vizyon,farklı pazarlama
                             anlayışı ile çalışmaktadır.Kaliteyi ön planda tutan firmamız, kullanım alanı geniş olan
                             ürün kaliteleriyle güncel hayatta yerini almaktadır.</p>
 
